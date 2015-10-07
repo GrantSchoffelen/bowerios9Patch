@@ -1,0 +1,19 @@
+{
+  "name": "iospatch",
+  "main": "iospatch.js",
+  "version": "0.0.0",
+  "authors": [
+    "Grant Schoffelen <grant.schoffelen@gmail.com>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
